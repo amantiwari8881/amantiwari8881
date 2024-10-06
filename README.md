@@ -27,7 +27,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,js,github,git,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,github,git,py)](https://skillicons.dev)
 
 ![Aman Tiwari GitHub stats](https://github-readme-stats.vercel.app/api?username=amantiwari8881&show_icons=true&theme=dark)
 
