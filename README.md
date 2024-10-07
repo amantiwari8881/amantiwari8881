@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Backend.
 - 💬 Ask me anything about My field.
 - 📫 How to reach me: tiwariaman9454@gmail.com
-- ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
 <div id="badges">
